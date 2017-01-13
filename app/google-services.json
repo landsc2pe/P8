@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "838327592861",
+    "firebase_url": "https://practice-8.firebaseio.com",
+    "project_id": "practice-8",
+    "storage_bucket": "practice-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838327592861:android:0e09952fe1d6c303",
+        "android_client_info": {
+          "package_name": "com.example.homin.p8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838327592861-a37s9kdkdn1lgj4dnm9ugukf24tf9cip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAnUiTSiFbUre3JF_uvnEuNPeukcm4Cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
